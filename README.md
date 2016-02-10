@@ -1,4 +1,4 @@
-# YouTube HTML parser to output a list of simple URIs and titles.
+# YouTube HTML parser:<br>to output a list of simple URIs and titles
 
 Syntax:
 
@@ -30,12 +30,3 @@ Example that selects matching title text, then sorts by the title field:
 This implementation does quick-and-dirty parsing of real world HTML.
 
 TODO: upgrade from simple grep to real HTML parsing.
-
-## About
-
-  * Command: youtube-html-parser-to-simple-uri-and-title
-  * Version: 1.1.0
-  * Created: 2010-10-15
-  * Updated: 2016-02-09
-  * License: GPL
-  * Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)
