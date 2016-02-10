@@ -33,7 +33,7 @@ TODO: upgrade from simple grep to real HTML parsing.
 
 ## About
 
-  * Program: youtube-html-parser-to-simple-uri-and-title
+  * Command: youtube-html-parser-to-simple-uri-and-title
   * Version: 1.1.0
   * Created: 2010-10-15
   * Updated: 2016-02-09
